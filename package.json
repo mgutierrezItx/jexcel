@@ -1,5 +1,5 @@
 {
-    "name": "jexcel",
+    "name": "jexcel-custom-lazy-loading",
     "title": "The Javascript Spreadsheet",
     "description": "jExcel is a lightweight, vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel, Google Spreadsheets and any other spreadsheet software.",
     "repository": {
